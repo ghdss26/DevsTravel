@@ -47,7 +47,7 @@ Outra dificuldade encontrada foi a parte de listar as imagens na tela de pesquis
   
   ```
   
-  ## Como executar o projeto no Angular no terminal ou vscode
+  ## Como executar o projeto no terminal ou vscode
 
 ```bash
     # clonar repositório
@@ -55,8 +55,7 @@ Outra dificuldade encontrada foi a parte de listar as imagens na tela de pesquis
 
     # entrar na pasta do projeto cdp
     cd devstravel 
-    cd front-end 
-
+  
     # executar o projeto
     flutter run
 
